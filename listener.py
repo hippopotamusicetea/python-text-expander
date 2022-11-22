@@ -69,9 +69,9 @@ if __name__ == "__main__":
             "hotkey": "1234",
             "replacement": "thisis a second helo",
         },
-        3: {"hotkey": "qwerty", "replacement": "terd helo"},
+        3: {"hotkey": "qwerty", "replacement": "c helo"},
         4: {
             "hotkey": "aaaaaa",
-            "replacement": "fert",
+            "replacement": "bbbbbbbbbbb",
         },
     }
